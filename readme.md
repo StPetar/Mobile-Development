@@ -4,7 +4,7 @@ App #1: Currency Converter
 
 Currency Converter 1       |Currency Converter 2       |Currency Converter 3      |
 :-------------------------:|:-------------------------:|:-------------------------:
-![Main Screen](App Pictures/"Currency Converter 1.jpg")  |  ![Landscape](App Pictures/"Currency Converter 2.jpg")  |  ![Currency List](/App Pictures/"Currency Converter 3.jpg")
+![Main Screen](App Pictures/"Currency Converter 1.png")  |  ![Landscape](App Pictures/"Currency Converter 2.png")  |  ![Currency List](/App Pictures/Currency Converter 3.png)
 
 
 App #2: Music Player
