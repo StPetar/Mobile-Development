@@ -27,4 +27,9 @@ Main Screen - Select a Campus      |Secondary Screen - Select a room       |Thir
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Main Screen](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%201.png)  |  ![Room Select from a list](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%202.png)  |  ![Interactable Map](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%203.png)
 
-![Campus Map Main Screen](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%201.png)
+Additional Info:
+Images are outdated from first iteration of the app.
+The additional toolbar on the top was later fixed.
+Interactable room images are the same for each room to save time during development, originally each room was supposed to have a picture
+
+My final iteration of the app would have had the option for the user to pick his starting position and use an algorithm to determine the fastest way to a selected room.
