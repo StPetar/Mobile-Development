@@ -2,25 +2,29 @@ This repo contains extracted code files from all the projects I worked on for my
 
 App #1: Currency Converter
 
-Currency Converter 1       |Currency Converter 2       |Currency Converter 3      |
+Main Screen       |Landscape Screen       |Currency List     |
 :-------------------------:|:-------------------------:|:-------------------------:
-![Main Screen](App Pictures/"Currency Converter 1.png")  |  ![Landscape](App Pictures/"Currency Converter 2.png")  |  ![Currency List](/App Pictures/Currency Converter 3.png)
+![Main Screen](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Currency%20Converter%201.png)  |  ![Landscape](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Currency%20Converter%202.png)  |  ![Currency List](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Currency%20Converter%203.png)
+
+Additional Info: 
+Currency ratios are updated automatically on app startup or with a press of a button in the additional options on the top right
 
 
 App #2: Music Player
+
+
+
+<img src="https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Music%20Player.png" width="250">
+
+Additional Info:
+The app searches your storage and inputs all available mp3 files in a queue.
+The songs are played in a random order
+Optional task was to use Google Maps API to create tiny zones (50-150m in diameter) for each new song you play.
+When walking into the zone the song for the given zone would be played.
+
 App #3: Final Project: Campus Map
-![Test Image 1](3DTest.png)
+Main Screen - Select a Campus      |Secondary Screen - Select a room       |Third screen - Interactable Map Image     |
+:-------------------------:|:-------------------------:|:-------------------------:
+![Main Screen](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%201.png)  |  ![Room Select from a list](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%202.png)  |  ![Interactable Map](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%203.png)
 
-![Test Image 2]("3DTest.png")
-
-![Test Image 3](/3DTest.png)
-
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
-
-![Test Image 5](https://.../3DTest.png)
-
-![Test Image 6](master/3DTest.png)
-
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
-
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
+![Campus Map Main Screen](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%201.png)
