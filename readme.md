@@ -18,9 +18,13 @@ App #2: Music Player
 
 Additional Info:
 The app searches your storage and inputs all available mp3 files in a queue.
-The songs are played in a random order
+
+The songs are played in a random order.
+
 Optional task was to use Google Maps API to create tiny zones (50-150m in diameter) for each new song you play.
+
 When walking into the zone the song for the given zone would be played.
+
 
 App #3: Final Project: Campus Map
 Main Screen - Select a Campus      |Secondary Screen - Select a room       |Third screen - Interactable Map Image     |
@@ -28,8 +32,13 @@ Main Screen - Select a Campus      |Secondary Screen - Select a room       |Thir
 ![Main Screen](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%201.png)  |  ![Room Select from a list](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%202.png)  |  ![Interactable Map](https://github.com/StPetar/S3-MobileDev/blob/master/App%20Pictures/Campus%20Map%203.png)
 
 Additional Info:
+
 Images are outdated from first iteration of the app.
+
 The additional toolbar on the top was later fixed.
-Interactable room images are the same for each room to save time during development, originally each room was supposed to have a picture
+
+Interactable room images are the same for each room to save time during development, originally each room was supposed to have a picture.
+
 
 My final iteration of the app would have had the option for the user to pick his starting position and use an algorithm to determine the fastest way to a selected room.
+
