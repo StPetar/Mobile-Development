@@ -1,4 +1,4 @@
-This repo contains all projects I worked on for my Mobile App Development class in the 3rd Semester
+This repo contains extracted code files from all the projects I worked on for my Mobile App Development class in the 3rd Semester
 
 App #1: Currency Converter
 
